@@ -1,0 +1,25 @@
+# Prompts Used for Development
+
+## Initial Prompt
+"Integration Assignment: Bidirectional ClickHouse & Flat File Data Ingestion Tool - Create a web-based application with a simple user interface that facilitates data ingestion between a ClickHouse database and Flat Files. Support bidirectional data flow, JWT token authentication, column selection, and record count reporting."
+
+## Detailed Project Structure Planning
+"Create a project structure for a Flask web application that will handle bidirectional data transfer between ClickHouse and flat files, with user authentication via JWT tokens."
+
+## ClickHouse Client Implementation
+"Implement a Python class for interacting with ClickHouse database that supports JWT token authentication, retrieving table schema, and efficient data ingestion."
+
+## Flat File Handling Implementation
+"Create a Python class for handling flat file operations including reading CSV files with custom delimiters, column selection, and saving data to files."
+
+## Frontend UI Design
+"Design a responsive HTML/CSS/JS user interface for a data ingestion tool that allows users to select source/target, configure connections, select columns, and view progress/results."
+
+## API Endpoint Implementation
+"Implement Flask API endpoints for connecting to ClickHouse, uploading flat files, previewing data, and handling bidirectional data ingestion processes."
+
+## JavaScript Client-Side Logic
+"Write JavaScript code to handle form submission, API calls, UI state management, and data visualization for a data ingestion web application."
+
+## Testing and Documentation
+"Create comprehensive README documentation explaining how to install, configure and use a ClickHouse and Flat File data ingestion tool, including examples and testing instructions." 
